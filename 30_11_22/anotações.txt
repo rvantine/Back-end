@@ -1,0 +1,35 @@
+Tarefa
+
+fazer um programa que calcule o valor de imposto de renda baseado num salario
+(Aliquota imposto de renda 7,5%)
+
+
+1- Descrição narrativa
+
+1- Solicitar o usuario o valor do salario
+2- calcular o valor do imposto a recolher baseado na aliquota de 7,5%
+3- Mostrar ao usuario o valor do imposto calculado
+
+2-Pseudocódigo
+
+Const aliquota = 7,5%
+var salario
+
+readln ("Informe o salario", salario);
+impostodevido = salario * aliquota;
+writeln("O valor do imposto devido é:", impostodevido);
+
+
+=============================================================================
+
+Tarefa de hoje
+
+1- Descrição narrativa
+
+1- Solicitar ao usuario o valor do seu salario.
+
+2- Se o salario for menor ou igual a 1.903,98 então escreva "Você está livre do Leão (Isento)"
+
+3- Se o salario for maior que 1.903,58 e menor que 2.826,65 então escreva: "Sua aliquota é de 7,5%"
+
+4-Se o salario for maior que 2.826,66 e menor que 2.826,66 então escreva: "Sua aliquota é de 7,5%"
