@@ -37,3 +37,32 @@ Tarefa de hoje
 5- Se o salario for maior que 3.751,05 e menor que 4.664,68 então escreva: "Sua aliquota é de 22,5%"
 
 6- Se o salario for maior que 4.664,68 então escreva: "Sua aliquota é de 27,5%"
+
+
+2- Pseudocódigo
+
+
+Const faixa1 = 'ISENTO'
+Const faixa2 = '7,5%'
+Const faixa3 = '15%'
+Const faixa4 = '22,5%'
+Const faixa5 = '27,5%'
+var salario
+
+readln("Informe o valor do seu salario", salario);
+
+if(salario <= 1.903,98)then
+    writeln("Você está livre do Leão", faixa1);
+
+elseif(salario >=1.903,99 and <= 2.826,66)then
+    writeln( "Sua aliquota é de", faixa2);
+
+elseif(salario >= 2.826,66 and <= 3.751,05)then
+    writeln("Sua aliquota é de", faixa3);
+
+elseif(salario >= 3.751,06 and <= 4.664,68)then
+    writeln("Sua aliquota é de", faixa4);
+
+else
+    writeln("Sua aliquota é de", faixa5);
+
