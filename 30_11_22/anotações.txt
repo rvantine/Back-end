@@ -30,6 +30,10 @@ Tarefa de hoje
 
 2- Se o salario for menor ou igual a 1.903,98 então escreva "Você está livre do Leão (Isento)"
 
-3- Se o salario for maior que 1.903,58 e menor que 2.826,65 então escreva: "Sua aliquota é de 7,5%"
+3- Se o salario for maior que 1.903,58 e menor que 2.826,66 então escreva: "Sua aliquota é de 7,5%"
 
-4-Se o salario for maior que 2.826,66 e menor que 2.826,66 então escreva: "Sua aliquota é de 7,5%"
+4- Se o salario for maior que 2.826,65 e menor que 3.751,05 então escreva: "Sua aliquota é de 15%"
+
+5- Se o salario for maior que 3.751,05 e menor que 4.664,68 então escreva: "Sua aliquota é de 22,5%"
+
+6- Se o salario for maior que 4.664,68 então escreva: "Sua aliquota é de 27,5%"
