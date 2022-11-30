@@ -35,3 +35,22 @@ writeln("O resultado do calculo é:", calculo);
 Tarefa:
 
 Fazer um programa que calcule o valor de imposto de renda baseado num salário. (Aliquota de 7,5%)
+
+
+1- aguardar o valor do salario
+2-multiplicar o valor do salario por 7,5
+3-calcular e armazenar o valor da multiplicação entre o salario e o valor de 7,5
+4-exibir o resultado da multiplicação
+
+const aliquota 7,5
+var Valorsalario
+var resultado
+
+readln("informe o valor do salario:", Valorslalario)
+readln("Valor aliquota fixo 7,5:", aliquota 7,5)
+
+resultado = valorsalario*const 7,5
+
+writeln("O Valor do imposto é:", resultado);
+
+
