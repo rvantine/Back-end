@@ -1,1 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2022-11-30T18:02:31.510Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.6.0" etag="3S1j36uEKs6HBR0fdo1i" type="github"><diagram id="_uWZVxPnF-XpFPe_C1Mk">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-11-30T18:25:57.512Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.6.0" etag="KF-UilKFvfOSQ_n7Jrb4" type="github">
+  <diagram id="9YH1jNXv7WKDU3tYGnST" name="Página-1">
+    <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="9qzTqPyYZx-5cw7sD9z_-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=17;" edge="1" parent="1" source="9qzTqPyYZx-5cw7sD9z_-1" target="9qzTqPyYZx-5cw7sD9z_-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9qzTqPyYZx-5cw7sD9z_-1" value="VS&lt;br&gt;" style="shape=card;whiteSpace=wrap;html=1;rotation=0;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="290" y="120" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9qzTqPyYZx-5cw7sD9z_-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9qzTqPyYZx-5cw7sD9z_-3" target="9qzTqPyYZx-5cw7sD9z_-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9qzTqPyYZx-5cw7sD9z_-3" value="Inicio&lt;br style=&quot;font-size: 17px;&quot;&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="295" y="40" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9qzTqPyYZx-5cw7sD9z_-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.425;entryY=-0.062;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=14;" edge="1" parent="1" source="9qzTqPyYZx-5cw7sD9z_-7" target="9qzTqPyYZx-5cw7sD9z_-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9qzTqPyYZx-5cw7sD9z_-7" value="Valorimposto=&lt;br&gt;VS* 7,5&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="292.5" y="220" width="125" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="9qzTqPyYZx-5cw7sD9z_-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="9qzTqPyYZx-5cw7sD9z_-9" target="9qzTqPyYZx-5cw7sD9z_-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9qzTqPyYZx-5cw7sD9z_-9" value="Imposto devedor =&lt;br&gt;ValorImposto" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="300" y="380" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9qzTqPyYZx-5cw7sD9z_-13" value="Fim&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="300" y="500" width="130" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
