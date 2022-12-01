@@ -13,4 +13,7 @@ nomeUsuario você tem idadeUsuario anos.
 
 var nomeuser
 var idade
-writeln("Olá, seu nome é nomeuser você tem idade anos.")
+
+readln("Informe seu nome", nomeuser);
+readln("Informe sua idade", idade);
+writeln("Olá, seu nome é nomeuser você tem idade anos.");
