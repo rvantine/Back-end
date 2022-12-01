@@ -1,0 +1,16 @@
+Tarefa
+Faça um algoritmo que receba o nome do usuário e a idade
+e mostre ao usuario a seguinte mensagem: Olá, seu nome é 
+nomeUsuario você tem idadeUsuario anos.
+
+1- descrição narrativa
+
+1- Insira o nome do usuário
+2- Insira a idade
+3- Mostre a Mensagem: Olá, seu nome é nomeUsuario você tem idadeUsuario anos.
+
+2-Pseudocódigo
+
+var nomeuser
+var idade
+writeln("Olá, seu nome é nomeuser você tem idade anos.")
