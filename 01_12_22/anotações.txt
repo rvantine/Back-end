@@ -17,3 +17,40 @@ var idade
 readln("Informe seu nome", nomeuser);
 readln("Informe sua idade", idade);
 writeln("Olá, seu nome é nomeuser você tem idade anos.");
+
+
+=======================================================================
+
+Faça um algoritmo que vai receber a cidade de nascimento do usuário,
+e vai mostrar a seguinte mensagem: Você nasceu em [NOME DA CIDADE]
+
+1- Insira a cidade de nascimento
+2- Mostre a mensagem: Você nasceu em [NOME DA CIDADE]
+
+var cidadenasc
+
+readln("Informe sua cidade de nascimento:", cidadenasc);
+writeln("Você nasceu em cidadenasc");
+
+==========================================================================
+
+Faça um algoritmo que receba do usuario um numero qualquer, 
+faça uma soma deste numero com o numero 10,
+e escreva o resultado com a seguinte mensagem: 
+Você somou [numeroEntrada] mais o numero 10,
+o resultado é [numeroCalculado]
+
+
+1- Insira um número
+2- Some o número inserido com o numero 10
+3- escreva o resultado da soma com a mensagem: Você somou [numeroEntrada] mais o numero 10,
+o resultado é [numeroCalculado]
+
+const numerofixo = 10
+var numeroqualquer
+var resultado = numeroqualquer + numerofixo
+
+
+
+
+
